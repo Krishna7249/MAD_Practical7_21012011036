@@ -9,3 +9,5 @@ Create an Video player application by following below instructions.
 
 4.Add Internet Permssion in Manifest file
 
+<img src="https://github.com/Krishna7249/MAD_Practical7_21012011036/assets/98690735/1a3d38e3-7a6b-4072-aa85-75ddcb2458c6" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical7_21012011036/assets/98690735/440534f5-5b9f-4387-9e89-c6f53ed67e28" width=20% height=20%>
